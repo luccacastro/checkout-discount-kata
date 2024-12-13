@@ -1,0 +1,60 @@
+1734061167674:help
+1734061178236:total
+1734061180859:scan
+1734061185681:scan --sku A
+1734061459271:catalogue
+1734065528456:scan --sku A
+1734065538929:scan --sku B
+1734065544389:scan --sku C
+1734065568835:receipt
+1734066237891:scan --sku A
+1734066268162:receipt
+1734067555639:scan --sku A
+1734067561335:receipt
+1734068807261:scan --sku A
+1734068812415:receipt
+1734069341808:scan --sku A
+1734069354609:receipt
+1734069628558:scan --sku A --amount 2
+1734069637355:scan --sku B
+1734069798891:scan --sku C
+1734069807217:scan --sku D --amount 5
+1734069846272:scan --sku B --amount 11
+1734069923205:receipt
+1734070204061:scan --sku A --amount 11
+1734070234963:catalogue
+1734070251038:receipt
+1734070528896:scan --sku A --amount 20
+1734070532517:receipt
+1734070557493:scan --sku A --amount 30
+1734070560844:receipt
+1734070626280:stacktrace
+1734070755186:scan --sku A --amount 321
+1734070761355:receipt
+1734070766298:stacktrace
+1734070788115:scan --sku A
+1734070790460:receipt
+1734070994718:scan --sku A --amount 30
+1734070997525:receipt
+1734071463025:scan --sku B --amount 40
+1734071470930:scan --sku C --amount 4
+1734071473295:receipt
+1734072241430:catalogue
+1734072624347:reset
+1734072627054:receipt
+1734073544691:catalogue
+1734073549454:receipt
+1734073553554:checkout-total
+1734073599791:catalogue
+1734073604117:checkout-total
+1734073612723:scan --sku A --amount 3
+1734073634763:checkout-total
+1734073646892:chcekout-total --showReceipt=true
+1734073682153:checkout-total --showReceipt=true
+1734073732532:checkout-total --showReceipt true
+1734080648560:scan --json src/main/resources/scan.json
+1734080690194:help
+1734080711925:scan --json scandata.json
+1734080750549:scan --json ../../resources/scandata.json
+1734080809819:scan --json target/classes/scandata.json
+1734080844197:checkout-total --showReceipt true
