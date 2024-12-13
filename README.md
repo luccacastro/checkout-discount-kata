@@ -7,13 +7,6 @@ The program allows users to scan items individually or in bulk (via JSON files),
 
 ---
 
-## Why Spring Shell?
-Spring Shell was chosen to provide an interactive, command-line experience. It allows for:
-- **Ease of Use**: Built-in support for commands.
-- **Integration with Spring Boot**: Simplifies configuration and development.
-- **Flexibility**: Makes it easy to add new features.
-
----
 
 ## Key Features
 1. **Command-Line Interface**:
